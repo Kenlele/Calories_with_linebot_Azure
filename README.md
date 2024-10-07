@@ -39,3 +39,13 @@ Prerequisites
 
 
 
+Note:
+
+all the api key set up in the config.ini
+pictures url = under the statics docs.
+
+
+
+
+
+
