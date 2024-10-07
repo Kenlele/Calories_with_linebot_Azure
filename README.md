@@ -41,8 +41,9 @@ Prerequisites
 
 Note:
 
+Use the config.ini 
 all the api key set up in the config.ini
-pictures url = under the statics docs.
+
 
 
 
